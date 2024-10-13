@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Aghazahiri Kashani
+- 👋 Hi, I’m Mohammad 
 - 👀 I’m interested in Machine learning, Passive localization (DPD techniqes) and Software Defined Radio systems.
 - 🌱 I’m currently Ph.D student in communication systems engineering at KNTU .
 - 💞️ I’m looking to collaborate on Machine learning projects.
