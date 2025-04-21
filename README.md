@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad 
-- 👀 I’m interested in Machine learning, Passive localization (DPD techniqes) and Software Defined Radio systems.
+- 👀 I’m interested in ISAC systems and Software Defined Radio systems.
 
 
 
